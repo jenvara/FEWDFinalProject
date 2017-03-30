@@ -1,4 +1,4 @@
- # Personal Website - Final Project for Front End Web Development
+# Personal Website - Final Project for Front End Web Development
 **This project was created for the Code Louisville FEWD course. It is for demonstration purposes utilizing skills and projects from my Treehouse courses.**
 
 # My Website Description
@@ -8,7 +8,9 @@ My website is a work in progress and hoping to have a live version by the end of
   1. Full Screen View 
   2. 660px - Nav Bar changes color and rearranges
   3. 480px - 2 Columns switch to 1 Column format 
-- The jquery is utilized on home page with carousal. 
+- The jquery is utilized on home page with a basic carousel. 
+  1. Sometimes load time is slow (needs work).
+  2. Sometimes I have to click portfolio after page loads to get it to work (I don't know what's wrong with it).
 
 # Requirements for Installation and Viewing Project
 System Installations:
